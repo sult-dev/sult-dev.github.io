@@ -1,6 +1,6 @@
 ---
 title: Bicioso vs. Negocio
-date: 2025-11-27
+date: 2025-11-25
 categories: [bicicleta, pensament]
 tags: [bici,pensament,anarquia,DIY]
 ---
